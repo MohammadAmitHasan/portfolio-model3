@@ -27,9 +27,10 @@ h2{
 }
 .top-section{
     margin: 0;
-    height: 93vh;
+    height: 680px;
     padding: 2%;
     background-color: rgb(15, 15 ,56);
+    box-shadow: 10px 10px 20px rgb(15, 15 ,56) ;
 }
 .profile{
     padding: 5px;
