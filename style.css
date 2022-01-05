@@ -35,7 +35,7 @@ h2{
     padding: 5px;
     margin: 0px auto;
     width: 480px;
-    height: 560px;
+    height: 580px;
     box-shadow: 10px 10px 30px rgb(235, 160, 228);
     border-radius: 15px;
 }
@@ -55,7 +55,7 @@ h2{
     box-shadow: 5px 5px 15px wheat;
     border-radius: 10px;
     display: block;
-    margin: 20px auto;
+    margin: 35px auto;
     width: 80px;
 }
 .link-btn:hover{
