@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+}
+.owner-name{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    font-weight: 300;
+    color: rgb(231, 96, 197);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.owner-title{
+    font-size: 20px;
+    margin: 10px;
+    padding: 0;
+    text-align: center;
+    color: rgb(163, 148, 216);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+.top-section{
+    margin: 0;
+    height: 93vh;
+    padding: 2%;
+    background-color: rgb(15, 15 ,56);
+}
+.profile{
+    padding: 5px;
+    margin: 0px auto;
+    width: 480px;
+    height: 560px;
+    box-shadow: 10px 10px 30px rgb(235, 160, 228);
+    border-radius: 15px;
+}
+
+.top-section img{
+    width: 350px;
+    display: block;
+    margin: 30px auto 0;
+}
+
+.link-btn{
+    color: rgb(97, 219, 219);
+    background-image: linear-gradient(rgb(22, 22, 116), rgb(18, 82, 82));
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 40px;
+    box-shadow: 5px 5px 15px wheat;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+    width: 80px;
+}
+.link-btn:hover{
+    background-image: linear-gradient(rgb(18, 82, 82), rgb(22, 22, 116));
+    box-shadow: 5px 5px 15px cyan;
+}
+.big-drm{
+    margin-top: 100px;
+    display: flex;
+    background-image: url(Images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.con-item-image{
+    width: 30%;
+    
+}
+.con-item-img img{
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 10px 10px 25px rgb(27, 16, 12);
+}
+.con-item-txt{
+    padding: 0 30px;
+    height: auto;
+    width: 55%;
+    margin: 0 2% ;
+}
+.rsm-dwn{
+    color: rgb(97, 219, 219);
+    background-image: linear-gradient(rgb(22, 22, 116), rgb(18, 82, 82));
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 20px;
+    box-shadow: 5px 5px 15px rgb(46, 32, 6);
+    border-radius: 10px;
+    text-align: center;
+}
+.rsm-dwn:hover{
+    background-image: linear-gradient(rgb(18, 82, 82), rgb(22, 22, 116));
+    box-shadow: 5px 5px 15px cyan;
+}
